@@ -1,4 +1,4 @@
-# Tab Grouper AI - Chrome Extension
+# AI Tab Organizer - Chrome Extension
 
 Organize your messy tabs automatically with AI!  
 This extension uses intelligent grouping to cluster your open tabs by topic, so you can focus better and work smarter.
