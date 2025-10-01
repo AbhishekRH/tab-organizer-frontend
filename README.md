@@ -41,6 +41,3 @@ This extension uses intelligent grouping to cluster your open tabs by topic, so 
 - No personal data is collected or stored.  
 - Backend communication is only used to process grouping via AI.  
 
-
-## 📜 License
-MIT License – free to use and modify.  
