@@ -21,7 +21,13 @@ This extension uses intelligent grouping to cluster your open tabs by topic, so 
 
 ## 🖼️ Screenshots
 ![image alt](https://github.com/AbhishekRH/tab-organizer-frontend/blob/f929846147bbc39131f07e91cd86a0929c7d59ea/tab-organizer-SS1.png)
+
+---
+
 ![image alt](https://github.com/AbhishekRH/tab-organizer-frontend/blob/f929846147bbc39131f07e91cd86a0929c7d59ea/tab-organizer-SS2.png)
+
+---
+
 ![image alt](https://github.com/AbhishekRH/tab-organizer-frontend/blob/f929846147bbc39131f07e91cd86a0929c7d59ea/tab-organizer-SS3.png)
 
 
