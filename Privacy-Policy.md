@@ -14,7 +14,7 @@ AI Tab Organizer respects your privacy. This privacy policy explains how we coll
 
 ## 3. Data Sharing
 - Tab titles and URLs are sent to our AI service (Gemini API) to categorize and group your tabs.
-- The AI processes this data temporarily for tab grouping and does not store it permanently for any other use.
+- The AI processes this data temporarily for soley for the purpose of tab categorization.
 
 ## 4. Data Retention
 - Tab data is temporarily processed on our server for AI grouping.
