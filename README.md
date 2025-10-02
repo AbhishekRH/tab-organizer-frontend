@@ -3,6 +3,7 @@
 Organize your messy tabs automatically with AI!  
 This extension uses intelligent grouping to cluster your open tabs by topic, so you can focus better and work smarter.
 
+(Backend code in other repo): !Backend(https://github.com/AbhishekRH/tab-organizer-backend)
 
 ## ✨ Features
 - 🔄 Automatically groups your open tabs based on relevance  
