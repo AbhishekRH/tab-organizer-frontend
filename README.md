@@ -1,9 +1,11 @@
 # AI Tab Organizer - Chrome Extension
+Backend code in other repo: [Backend](https://github.com/AbhishekRH/tab-organizer-backend)
+
+---
 
 Organize your messy tabs automatically with AI!  
 This extension uses intelligent grouping to cluster your open tabs by topic, so you can focus better and work smarter.
 
-(Backend code in other repo): ![Backend](https://github.com/AbhishekRH/tab-organizer-backend)
 
 ## ✨ Features
 - 🔄 Automatically groups your open tabs based on relevance  
@@ -14,7 +16,7 @@ This extension uses intelligent grouping to cluster your open tabs by topic, so 
 
 
 ## 📦 Installation
-1. Download the extension from the [Chrome Web Store](https://chrome.google.com/webstore) (link will be here after publishing).  
+1. Download the extension from the [Chrome Web Store](https://chrome.google.com/webstore) (link will be here after the entension is published in Chrome Web Store).  
 2. Click **Add to Chrome**.  
 3. Pin the extension from the toolbar.  
 4. Open multiple tabs and click the extension icon → watch the magic! 🎉  
